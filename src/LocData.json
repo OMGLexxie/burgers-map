@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Juicy Burgers & Dogs",
+    "street": "6878 S Yosemite St",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80112",
+    "url": "juicyburgersanddogs.com",
+    "pos": {"lat":39.591850,"lng":-104.886772}
+  },
+  {
+    "name": "Burger Theory",
+    "street": "6638 S Nome St",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80111",
+    "url": "http://www.burgertheorydenver.com/",
+    "pos": {"lat":39.596581,"lng":-104.853233}
+  },
+  {
+    "name": "Bad Daddys Burger Bar",
+    "street": "5380 Greenwood Plaza Blvd #106",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "zip": "80111",
+    "url": "http://www.baddaddysburgerbar.com/",
+    "pos": {"lat":39.618930,"lng":-104.899720}
+  },
+  {
+    "name": "Five Guys",
+    "street": "8547 E Arapahoe Rd",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "zip": "80112",
+    "url": "http://www.fiveguys.com/",
+    "pos": {"lat":39.596321,"lng":-104.891281}
+  },
+  {
+    "name": "Good Times Burgers & Frozen Custard",
+    "street": "6667 S Yosemite Ct",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "zip": "80111",
+    "url": "http://www.goodtimesburgers.com/",
+    "pos": {"lat":39.595821,"lng":-104.887573}
+  },
+  {
+    "name": "Culver's",
+    "street": "10440 E Arapahoe Rd, Centennial, CO 80112",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80112",
+    "url": "http://www.culvers.com/",
+    "pos": {"lat":39.594460,"lng":-104.867393}
+  },
+  {
+    "name": "Red Robin Gourmet Burgers and Brews",
+    "street": "8355 Park Meadows Center Dr, Lone Tree, CO 80124",
+    "city": "Lone Tree",
+    "state": "CO",
+    "zip": "80124",
+    "url": "http://www.redrobin.com/",
+    "pos": {"lat":39.564651,"lng":-104.872993}
+  },
+  {
+    "name": "303 Burgers",
+    "street": "10101 E Hampden Ave #108",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80231",
+    "url": "http://www.303burgers.com",
+    "pos": {"lat":39.653760,"lng":-104.869920}
+  },
+  {
+    "name": "Zig Zag Smokin' Burger",
+    "street": "9220 E Arapahoe Rd",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "zip": "80112",
+    "url": "https://www.zigzagburger.com",
+    "pos": {"lat":39.594490,"lng":-104.881780}
+  }
+]
